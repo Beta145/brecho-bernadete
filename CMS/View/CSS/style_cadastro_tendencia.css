@@ -1,0 +1,152 @@
+/* css */
+
+#content_tendencia{
+    width: 1200px;
+    min-height: 1200px;
+    height: auto;
+    overflow: hidden;
+    float: left;
+/*    background-color: white;*/
+}
+
+#titulo_tendencia{
+    width: 1200px;
+    height: 50px;
+    font-size: 32pt;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+/*    background-color: white;*/
+
+}
+/* area de cadastro de dados */
+
+#dados{
+    width: 650px;
+    height: 950px;
+    padding-top: 50px;
+    /* background-color: black; */
+    float: left;
+
+}
+
+#campo_nome{
+  width: 650px;
+  height: 85px;
+  padding-top: 15px;
+  /* background-color: red; */
+
+}
+
+#campo_dtInicio{
+  width: 650px;
+  height: 85px;
+  padding-top: 15px;
+  /* background-color: blue; */
+  margin-top: 20px;
+
+}
+
+#campo_dtFinal{
+  width: 650px;
+  height: 85px;
+  padding-top: 15px;
+  /* background-color: white; */
+  margin-top: 20px;
+
+}
+
+#select_produto{
+  width: 650px;
+  height: 85px;
+  padding-top: 15px;
+  /* background-color: green; */
+  margin-top: 20px;
+}
+
+
+
+/* formatações */
+
+.titulos{
+
+  margin-left: 130px;
+  font-size: 18pt;
+}
+
+/* inputs de texto */
+
+#caixa_txt_nome{
+  width: 500px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 14pt;
+  margin-left: 130px;
+}
+
+#caixa_txt_dtI{
+  width: 230px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 14pt;
+  margin-left: 130px;
+}
+
+#caixa_txt_diF{
+  width: 230px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 14pt;
+  margin-left: 130px;
+}
+
+#combo_produtos{
+  width: 230px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 14pt;
+  margin-left: 130px;
+}
+
+/* area de cadastro da imagem */
+
+#caixa_img{
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+#caixa_foto{
+  margin-left: 100px;
+  margin-top: 15px;
+
+
+}
+
+#img{
+    width: 550px;
+    height: 1000px;
+    /* background-color: cornflowerblue; */
+    float: left;
+}
+
+/* Botoes */
+
+#botoes{
+  width:550px;
+  height: 100px;
+  margin-top: 200px;
+}
+
+#btn_salvar{
+  width: 100px;
+  height: 50px;
+}
+
+#btn_cancel{
+  width: 100px;
+  height: 50px;
+}
